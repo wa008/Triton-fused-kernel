@@ -5,7 +5,7 @@ list fused kernels in transformer written by Triton
 Attention: I only test the correctness and speed on core kernel but on whole class, becuase there's some unsloved issued.
 - [ ] Why error is significantly larger in default mode than INTERPRET mode, [issue](https://github.com/triton-lang/triton/issues/5895)
 
-## Fast cross entropy
+## Fast cross entropy loss
 
 [Full detail](https://informal.top/posts/weekly-19-Triton-Liger-Kernel-cross-entropy-with-backward/#full-cross-entropy)
 
