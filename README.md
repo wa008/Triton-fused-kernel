@@ -9,7 +9,7 @@ Attention: I only test the correctness and speed on core kernel but on whole cla
 
 [Full detail](https://informal.top/posts/weekly-19-Triton-Liger-Kernel-cross-entropy-with-backward/#full-cross-entropy)
 
-Performance: 
+Performance: improve 7% than torch kernel
 
 <img src="img/cross-entropy-01.png" width="400px" >
 
